@@ -1,0 +1,15 @@
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/bin/Debug/net6.0/zadanie2_Molotovs
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/bin/Debug/net6.0/zadanie2_Molotovs.deps.json
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/bin/Debug/net6.0/zadanie2_Molotovs.runtimeconfig.json
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/bin/Debug/net6.0/zadanie2_Molotovs.dll
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/bin/Debug/net6.0/ref/zadanie2_Molotovs.dll
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/bin/Debug/net6.0/zadanie2_Molotovs.pdb
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/obj/Debug/net6.0/zadanie2_Molotovs.csproj.AssemblyReference.cache
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/obj/Debug/net6.0/zadanie2_Molotovs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/obj/Debug/net6.0/zadanie2_Molotovs.AssemblyInfoInputs.cache
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/obj/Debug/net6.0/zadanie2_Molotovs.AssemblyInfo.cs
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/obj/Debug/net6.0/zadanie2_Molotovs.csproj.CoreCompileInputs.cache
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/obj/Debug/net6.0/zadanie2_Molotovs.dll
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/obj/Debug/net6.0/ref/zadanie2_Molotovs.dll
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/obj/Debug/net6.0/zadanie2_Molotovs.pdb
+/Users/viktoria/Desktop/ИП РПО/zadanie2_Molotovs/zadanie2_Molotovs/obj/Debug/net6.0/zadanie2_Molotovs.genruntimeconfig.cache
